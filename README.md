@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**FuzjaJadrowa/FuzjaJadrowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Fuzja!
+I'm a developer and content creator who loves building tools that make the digital world a bit more interesting. Whether it's modding Minecraft or streamlining media management, I’m always working on something new.
+---
+### 🚀 What I’m currently working on:
+* **Pulsar Brand** 🛰️ – Developing an all-in-one application for downloading and managing media seamlessly.
+* **Minecraft Modding** 🧱 – Occasionally crafting minor mods and tweaks to enhance the blocky experience.
+* **Content Creation** 🎬 – Editing and producing videos for my **two YouTube channels**.
+---
+### 📊 Contact:
+* **YouTube:** [Fuzja Jądrowa](https://www.youtube.com/@FuzjaJadrowa) | [Fuzja Pixelowa](https://www.youtube.com/@FuzjaPixelowa)
+* **Discord:** fuzjajadrowa
+* **Portfolio:** [My website](https://fuzjajadrowa.pl/)
