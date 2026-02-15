@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Fuzja!
-I'm a developer and content creator who loves building tools that make the digital world a bit more interesting. Whether it's modding Minecraft or streamlining media management, I’m always working on something new.
+* I'm a developer and content creator who loves building tools that make the digital world a bit more interesting. Whether it's modding Minecraft or streamlining media management, I’m always working on something new.
 ---
 ### 🚀 What I’m currently working on:
 * **Pulsar Brand** 🛰️ – Developing an all-in-one application for downloading and managing media seamlessly.
