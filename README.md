@@ -58,4 +58,4 @@
   </table>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FuzjaJadrowa&show_icons=true&locale=en" alt="FuzjaJadrowa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-plus-theta.vercel.app/api?username=FuzjaJadrowa&show_icons=true&locale=en" alt="FuzjaJadrowa" /></p>
